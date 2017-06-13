@@ -1,0 +1,81 @@
+ID: 149
+EMAIL: csi16-ÁSánnte@colegioaltair.net
+APELLIDOS: Sánchez Elegante
+NOMBRE: Álvaro
+EXAMEN 1: 9.8
+EXAMEN 2: 3.5
+EXAMEN 3: 4.6
+MEDIA TOTAL: 5.0
+
+ID: 151
+EMAIL: csi16-DAreata@colegioaltair.net
+APELLIDOS: Arenas Mata
+NOMBRE: Daniel Luis
+EXAMEN 1: 9.3
+EXAMEN 2: 5.7
+EXAMEN 3: 6.0
+MEDIA TOTAL: 7.0
+
+ID: 192
+EMAIL: csi16-JGarlís@colegioaltair.net
+APELLIDOS: García Solís
+NOMBRE: Juan Manuel
+EXAMEN 1: 7.2
+EXAMEN 2: 6.3
+EXAMEN 3: 6.6
+MEDIA TOTAL: 6.0
+
+ID: 180
+EMAIL: csi16-ARoduez@colegioaltair.net
+APELLIDOS: Rodríguez Vázquez
+NOMBRE: Agustin
+EXAMEN 1: 8.0
+EXAMEN 2: 2.8
+EXAMEN 3: 9.2
+MEDIA TOTAL: 6.0
+
+ID: 243
+EMAIL: csi16-FHurnda@colegioaltair.net
+APELLIDOS: Hurtado Miranda
+NOMBRE: Fco. Javier
+EXAMEN 1: 7.6
+EXAMEN 2: 2.4
+EXAMEN 3: 6.7
+MEDIA TOTAL: 5.0
+
+ID: 126
+EMAIL: csi16-MPinnda@colegioaltair.net
+APELLIDOS: Pinto Mirinda
+NOMBRE: Miranda
+EXAMEN 1: 5.2
+EXAMEN 2: 2.4
+EXAMEN 3: 9.3
+MEDIA TOTAL: 5.0
+
+ID: 191
+EMAIL: csi16-TBarobo@colegioaltair.net
+APELLIDOS: Barrios Garrobo
+NOMBRE: Tomás
+EXAMEN 1: 9.3
+EXAMEN 2: 2.0
+EXAMEN 3: 6.8
+MEDIA TOTAL: 6.0
+
+ID: 147
+EMAIL: csi16-CMárzar@colegioaltair.net
+APELLIDOS: Márquez Salazar
+NOMBRE: Carlos
+EXAMEN 1: 3.8
+EXAMEN 2: 8.0
+EXAMEN 3: 5.9
+MEDIA TOTAL: 5.0
+
+ID: 164
+EMAIL: csi16-JMedmez@colegioaltair.net
+APELLIDOS: Medina Gómez
+NOMBRE: Jose Carlos
+EXAMEN 1: 5.6
+EXAMEN 2: 7.4
+EXAMEN 3: 2.3
+MEDIA TOTAL: 5.0
+

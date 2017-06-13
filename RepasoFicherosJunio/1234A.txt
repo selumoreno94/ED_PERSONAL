@@ -1,0 +1,5 @@
+Código: 1234A
+Nombre: Jugador1
+Equipo: Equipo1
+Años Totales: 4
+Media Goles Totales: 3.0

@@ -1,0 +1,176 @@
+ID ALUMNO: 0
+NOMBRE: Antonio
+APELLIDOS: Aguilar, Rubio
+EMAIL: csi17-AAgubio@colegioXXX.net
+NOTA 1: 3.8
+NOTA 2: 5.3
+NOTA 3: 8.7
+MEDIA: 6.0
+ID ALUMNO: 1
+NOMBRE: Juan Luis
+APELLIDOS: Alonso, Pérez
+EMAIL: csi17-JAlorez@colegioXXX.net
+NOTA 1: 5.7
+NOTA 2: 5.9
+NOTA 3: 3.0
+MEDIA: 5.0
+ID ALUMNO: 2
+NOMBRE: Daniel Luis
+APELLIDOS: Arenas, Mata
+EMAIL: csi17-DAreata@colegioXXX.net
+NOTA 1: 2.5
+NOTA 2: 8.3
+NOTA 3: 6.7
+MEDIA: 6.0
+ID ALUMNO: 3
+NOMBRE: Constantino
+APELLIDOS: Baena, Fernández
+EMAIL: csi17-CBaedez@colegioXXX.net
+NOTA 1: 3.1
+NOTA 2: 9.6
+NOTA 3: 4.7
+MEDIA: 6.0
+ID ALUMNO: 4
+NOMBRE: Roberto
+APELLIDOS: Barco, Ramírez
+EMAIL: csi17-RBarrez@colegioXXX.net
+NOTA 1: 2.8
+NOTA 2: 0.5
+NOTA 3: 2.3
+MEDIA: 2.0
+ID ALUMNO: 5
+NOMBRE: Tomás
+APELLIDOS: Barrios, Garrobo
+EMAIL: csi17-TBarobo@colegioXXX.net
+NOTA 1: 5.5
+NOTA 2: 6.8
+NOTA 3: 5.5
+MEDIA: 6.0
+ID ALUMNO: 6
+NOMBRE: Alfredo
+APELLIDOS: Blanco, Roldán
+EMAIL: csi17-ABladán@colegioXXX.net
+NOTA 1: 8.5
+NOTA 2: 1.9
+NOTA 3: 2.6
+MEDIA: 4.0
+ID ALUMNO: 7
+NOMBRE: Rafael
+APELLIDOS: Delgado, Rodríguez
+EMAIL: csi17-RDeluez@colegioXXX.net
+NOTA 1: 3.8
+NOTA 2: 8.0
+NOTA 3: 3.6
+MEDIA: 5.0
+ID ALUMNO: 8
+NOMBRE: Antonio
+APELLIDOS: Duque, Martínez
+EMAIL: csi17-ADuqnez@colegioXXX.net
+NOTA 1: 1.6
+NOTA 2: 6.2
+NOTA 3: 8.8
+MEDIA: 6.0
+ID ALUMNO: 9
+NOMBRE: Francisco
+APELLIDOS: Fernández, Perea
+EMAIL: csi17-FFerrea@colegioXXX.net
+NOTA 1: 4.8
+NOTA 2: 2.3
+NOTA 3: 9.5
+MEDIA: 6.0
+ID ALUMNO: 10
+NOMBRE: Jacobo
+APELLIDOS: Ferrer, Jiménez
+EMAIL: csi17-JFernez@colegioXXX.net
+NOTA 1: 7.4
+NOTA 2: 5.9
+NOTA 3: 7.9
+MEDIA: 7.0
+ID ALUMNO: 11
+NOMBRE: Juan Manuel
+APELLIDOS: García, Solís
+EMAIL: csi17-JGarlís@colegioXXX.net
+NOTA 1: 7.5
+NOTA 2: 4.8
+NOTA 3: 2.1
+MEDIA: 5.0
+ID ALUMNO: 12
+NOMBRE: Angel
+APELLIDOS: González, Chaparro
+EMAIL: csi17-AGonrro@colegioXXX.net
+NOTA 1: 2.8
+NOTA 2: 5.6
+NOTA 3: 7.0
+MEDIA: 5.0
+ID ALUMNO: 13
+NOMBRE: Fco. Javier
+APELLIDOS: Hurtado, Miranda
+EMAIL: csi17-FHurnda@colegioXXX.net
+NOTA 1: 1.8
+NOTA 2: 6.2
+NOTA 3: 9.0
+MEDIA: 6.0
+ID ALUMNO: 14
+NOMBRE: Daniel
+APELLIDOS: López, Mora
+EMAIL: csi17-DLópora@colegioXXX.net
+NOTA 1: 4.0
+NOTA 2: 2.0
+NOTA 3: 0.6
+MEDIA: 2.0
+ID ALUMNO: 15
+NOMBRE: Carlos
+APELLIDOS: Márquez, Salazar
+EMAIL: csi17-CMárzar@colegioXXX.net
+NOTA 1: 0.9
+NOTA 2: 9.4
+NOTA 3: 8.9
+MEDIA: 6.0
+ID ALUMNO: 16
+NOMBRE: Jose Carlos
+APELLIDOS: Medina, Gómez
+EMAIL: csi17-JMedmez@colegioXXX.net
+NOTA 1: 8.2
+NOTA 2: 5.4
+NOTA 3: 8.2
+MEDIA: 7.0
+ID ALUMNO: 17
+NOMBRE: Alejandro
+APELLIDOS: Morales, Moncayo
+EMAIL: csi17-AMorayo@colegioXXX.net
+NOTA 1: 0.5
+NOTA 2: 0.6
+NOTA 3: 9.9
+MEDIA: 4.0
+ID ALUMNO: 18
+NOMBRE: Francisco
+APELLIDOS: Navarro, Romero
+EMAIL: csi17-FNavero@colegioXXX.net
+NOTA 1: 0.5
+NOTA 2: 0.0
+NOTA 3: 7.2
+MEDIA: 3.0
+ID ALUMNO: 19
+NOMBRE: José Manuel
+APELLIDOS: Pinto, Mirinda
+EMAIL: csi17-JPinnda@colegioXXX.net
+NOTA 1: 5.0
+NOTA 2: 4.1
+NOTA 3: 9.6
+MEDIA: 6.0
+ID ALUMNO: 20
+NOMBRE: Agustín
+APELLIDOS: Rodríguez, Vázquez
+EMAIL: csi17-ARoduez@colegioXXX.net
+NOTA 1: 4.2
+NOTA 2: 7.7
+NOTA 3: 5.9
+MEDIA: 6.0
+ID ALUMNO: 21
+NOMBRE: Álvaro
+APELLIDOS: Sánchez, Elegante
+EMAIL: csi17-ÁSánnte@colegioXXX.net
+NOTA 1: 7.1
+NOTA 2: 5.7
+NOTA 3: 3.7
+MEDIA: 6.0

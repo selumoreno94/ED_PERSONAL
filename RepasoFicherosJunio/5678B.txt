@@ -1,0 +1,5 @@
+Código: 5678B
+Nombre: Jugador2
+Equipo: Equipo2
+Años Totales: 2
+Media Goles Totales: 9.0

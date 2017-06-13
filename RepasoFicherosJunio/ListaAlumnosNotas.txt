@@ -1,0 +1,9 @@
+149;Sánchez Elegante, Álvaro;9.8;3.5;4.6
+151;Arenas Mata, Daniel Luis;9.3;5.7;6
+192;García Solís, Juan Manuel;7.2;6.3;6.6
+180;Rodríguez Vázquez, Agustin;8;2.8;9.2
+243;Hurtado Miranda, Fco. Javier;7.6;2.4;6.7
+126;Pinto Mirinda, Miranda;5.2;2.4;9.3
+191;Barrios Garrobo, Tomás;9.3;2;6.8
+147;Márquez Salazar, Carlos;3.8;8;5.9
+164;Medina Gómez, Jose Carlos;5.6;7.4;2.3

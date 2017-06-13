@@ -1,0 +1,12 @@
+Se pide desarrollar un programa que permita gestionar todos los parques nacionales que existen en Kenia.
+Cada parque posee una extensión (km cuadrados), un número de especies de animales y poseen un nombre.
+Todos ellos sólo pueden ser de dos tipos, las Reservas de Caza o Áreas Protegidas.
+
+Los primeros, tienen un coste de licencia y un sólo tipo de arma a utilizar en él, mientras que los segundos,
+poseen una subvención del gobierno y colabora en ellos una ONG.
+
+Crear un Interface Visitable, que defina el método String visitar(). Este método indicará que las áreas
+protegidas no se pueden visitar y que las reservas de caza sólo se pueden visitar si el arma es una pistola de
+agua.
+
+Implemente un programa principal que muestre la realización de todos estos cálculos.

@@ -1,0 +1,4 @@
+Toronto Raptors;64;38;26;6685;6483;(Toronto);1995;Air-Canadá-Center
+Boston Celtics;63;27;36;6351;6429;(Boston);1946;TD-Garden
+Brooklyn Nets;63;25;38;6065;6300;(NY);1967;Barclays-Center
+Philadelphia 76ers;64;14;50;5804;6449;(Philadelphia);1946;Wells-Fargo-Center
